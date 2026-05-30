@@ -1,0 +1,1 @@
+& "C:\Users\12099\.workbuddy\binaries\node\versions\22.12.0\npm.cmd" run dev
