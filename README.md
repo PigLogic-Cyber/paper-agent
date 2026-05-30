@@ -273,7 +273,7 @@ paper-agent-assistant/
 
 ## 📄 开源协议
 
-MIT License —— 自由使用、修改和分发 🎉
+Apache License —— 自由使用、修改和分发，记得声明源码原文~ 🎉
 
 ---
 
